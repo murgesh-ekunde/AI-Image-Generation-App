@@ -1,0 +1,1 @@
+export const API = "https://ai-image-generation-app-backend.onrender.com"
